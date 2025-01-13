@@ -1,4 +1,4 @@
-const { Client } = require('pg');
+// const { Client } = require('pg');
 //const client = new Client({
 //     host: 'localhost',           // usually 'localhost' for local setup
 //     port: 5432,                  // PostgreSQL default port
